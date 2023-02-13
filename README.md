@@ -3,6 +3,19 @@
 ## 简单介绍
 pic_store_tool根据用户id和用户名以及图片来存储。提供查询图片存储接口，根据特定用户删除特定图片接口，删除某个用户所有存储的图片接口。
 
+## 运行
+```
+pip install -r requirements.txt
+python app.py
+```
+
+## 测试
+测试用例 [test.py](app/signature_api/test.py)
+```
+curl localhost:12769
+```
+
+
 ## 依赖
 ```
 Flask
