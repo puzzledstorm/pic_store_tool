@@ -1,0 +1,8 @@
+Flask==1.0.3
+Flask_RESTful==0.3.7
+numpy==1.22.4
+opencv_contrib_python==4.1.2.30
+PyYAML==6.0
+requests==2.22.0
+SQLAlchemy==1.4.36
+urllib3==1.24.2
